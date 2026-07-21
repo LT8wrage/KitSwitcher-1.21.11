@@ -1,0 +1,13 @@
+{
+  "itemGroup.kitswitcher": "Example Mod Tab",
+  "block.kitswitcher.example_block": "Example Block",
+  "item.kitswitcher.example_item": "Example Item",
+
+  "kitswitcher.configuration.title": "Kit Switcher Configs",
+  "kitswitcher.configuration.section.kitswitcher.common.toml": "Kit Switcher Configs",
+  "kitswitcher.configuration.section.kitswitcher.common.toml.title": "Kit Switcher Configs",
+  "kitswitcher.configuration.items": "Item List",
+  "kitswitcher.configuration.logDirtBlock": "Log Dirt Block",
+  "kitswitcher.configuration.magicNumberIntroduction": "Magic Number Text",
+  "kitswitcher.configuration.magicNumber": "Magic Number"
+}
